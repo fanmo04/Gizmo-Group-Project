@@ -1,8 +1,7 @@
-# Gizmo Group Project 
-## Chordocentric - DE2 Gizmo group project
+# Chordocentric - DE2 Gizmo group project
 
-Servo motor and DC motor codes
+Servo motor and DC motor codes:
 
-Twelve **servo motors** are controlled by **Arduino**
+Twelve **servo motors** are controlled by **Arduino**, written by Lois
 
-One **DC motos** is controlled by **Raspberry Pi**
+One **DC motos** is controlled by **Raspberry Pi**, written by Sanish
