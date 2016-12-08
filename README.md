@@ -1,1 +1,1 @@
-# Gizmo-Group-Project
+# Gizmo Group Project
