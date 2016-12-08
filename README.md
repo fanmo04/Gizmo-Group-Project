@@ -1,5 +1,5 @@
 # Gizmo Group Project 
-Chordocentric - DE2 Gizmo group project
+## Chordocentric - DE2 Gizmo group project
 
 Servo motor and DC motor codes
 
