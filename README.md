@@ -1,5 +1,8 @@
 # Gizmo Group Project 
-\nChordocentric - DE2 Gizmo group project
-\nServo motor and DC motor codes
-\nTwelve servo motors are controlled by Arduino
-\nOne DC motos is controlled by Raspberry Pi
+Chordocentric - DE2 Gizmo group project
+
+Servo motor and DC motor codes
+
+Twelve **servo motors** are controlled by **Arduino**
+
+One **DC motos** is controlled by **Raspberry Pi**
