@@ -1,0 +1,23 @@
+from nanpy import (ArduinoApi,SerialManager)
+from time import sleep
+from nanpy import Servo
+
+try:
+    connection=SerialManager()
+    a=ArduinoApi(connection=connection)
+except:
+    print("Failed to connect to Arduino.")
+
+# Setup the pinModes as if we were in  Arduino IDE
+servo1=a.Servo(9)
+servo2=a.Servo(2)
+pos=0
+
+while 1==1:
+    for pos in range(0,60,1):
+        servo1.a.write(pos)
+        servo2.a.write(pos)       
+
+    for pos in range (60,0,-1):
+        servo1.a.write(pos)
+        servo2.a.write(pos)
